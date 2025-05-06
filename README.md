@@ -1,5 +1,6 @@
 # vuln-note
 An intentionally vulnerable note-sharing application for a mini pentest demo.
+
 ---
 ### Vulnerabilities Demostrated:
 - Leaked Internal Documentations containing Credentials (Discovered via Directory Busting)
